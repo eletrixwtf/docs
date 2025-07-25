@@ -32,15 +32,6 @@
               "vehicle_systems/introduction",
               "vehicle_systems/vehicles-list"
             ]
-          },
-          {
-            "group": "Vehicle",
-            "pages": [
-              "vehicle_systems/endpoint/get",
-              "vehicle_systems/endpoint/create",
-              "vehicle_systems/endpoint/delete",
-              "vehicle_systems/endpoint/webhook"
-            ]
           }
         ]
       }
