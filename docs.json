@@ -27,13 +27,14 @@
         "tab": "Vehicles",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Welcome",
             "pages": [
-              "vehicle_systems/introduction"
+              "vehicle_systems/introduction",
+              "vehicle_systems/vehicles-list"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Vehicle",
             "pages": [
               "vehicle_systems/endpoint/get",
               "vehicle_systems/endpoint/create",
