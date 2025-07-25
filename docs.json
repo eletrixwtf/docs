@@ -53,16 +53,16 @@
           {
             "group": "API documentation",
             "pages": [
-              "api-reference/introduction"
+              "vehicle_systems/introduction"
             ]
           },
           {
             "group": "Endpoint examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "vehicle_systems/endpoint/get",
+              "vehicle_systems/endpoint/create",
+              "vehicle_systems/endpoint/delete",
+              "vehicle_systems/endpoint/webhook"
             ]
           }
         ]
