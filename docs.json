@@ -14,11 +14,11 @@
         "tab": "Introduction",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
             "pages": [
               "index",
               "overview",
-              "development"
+              "navigation"
             ]
           },
           {
